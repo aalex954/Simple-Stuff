@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2013\Projects\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.exe
+C:\Users\alex\Documents\Visual Studio 2013\Projects\EvensAndOdds\EvensAndOdds\bin\Debug\EvensAndOdds.pdb
+C:\Users\alex\Documents\Visual Studio 2013\Projects\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.exe
+C:\Users\alex\Documents\Visual Studio 2013\Projects\EvensAndOdds\EvensAndOdds\obj\Debug\EvensAndOdds.pdb

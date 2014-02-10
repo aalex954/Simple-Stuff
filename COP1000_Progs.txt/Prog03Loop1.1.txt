@@ -1,0 +1,5 @@
+FILE DELETED
+
+Microsoft Forefront Security for Exchange Server removed a file since it was found to be infected.
+File name: "COP1000_Progs.txt.zip->Prog03Loop1.1.exe"
+Virus name: "W32/Shutdowner.A.gen!Eldorado"

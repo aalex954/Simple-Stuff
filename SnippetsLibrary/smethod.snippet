@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+    xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Static Method</Title>
+      <Author>Mark Provenzano</Author>
+      <Description>creates an object field with getter and setters</Description>
+      <Shortcut>smethod</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>name</ID>
+          <ToolTip>Replace with method name</ToolTip>
+          <Default>name</Default>
+        </Literal>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Replace with method type</ToolTip>
+          <Default>void</Default>
+        </Literal>
+        <Literal>
+          <ID>stepin</ID>
+          <ToolTip>Replace with method body</ToolTip>
+          <Default></Default>
+        </Literal>
+        <Literal>
+          <ID>step</ID>
+          <ToolTip>Replace with method arguments</ToolTip>
+          <Default></Default>
+        </Literal>
+      </Declarations>
+      <Code Language="CSharp">
+        <![CDATA[public static $type$ $name$($step$) {
+        $stepin$
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

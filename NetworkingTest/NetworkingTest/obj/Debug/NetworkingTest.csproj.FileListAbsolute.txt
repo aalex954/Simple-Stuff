@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\bin\Debug\NetworkingTest.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\obj\Debug\NetworkingTest.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\bin\Debug\NetworkingTest.exe
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\bin\Debug\NetworkingTest.pdb
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\obj\Debug\NetworkingTest.exe
+c:\users\alex\documents\visual studio 2013\Projects\NetworkingTest\NetworkingTest\obj\Debug\NetworkingTest.pdb

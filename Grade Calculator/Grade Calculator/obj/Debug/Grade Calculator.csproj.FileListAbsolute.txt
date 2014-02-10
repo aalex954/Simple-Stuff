@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+c:\users\alex\documents\visual studio 2013\Projects\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb

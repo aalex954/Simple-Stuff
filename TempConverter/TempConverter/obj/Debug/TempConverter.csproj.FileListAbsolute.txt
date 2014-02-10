@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+c:\users\alex\documents\visual studio 2013\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.pdb

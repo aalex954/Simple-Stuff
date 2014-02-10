@@ -1,0 +1,17 @@
+﻿Build started 11/5/2013 11:53:02 AM.
+     1>Project "G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\PPM_Card_Generator\PPM_Card_Generator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\ppmlib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt cardmaker.c
+         cardmaker.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\Debug\PPM_Card_Generator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\Debug\PPM_Card_Generator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\Debug\PPM_Card_Generator.lib" /MACHINE:X86 Debug\cardmaker.obj
+     1>cardmaker.obj : error LNK2019: unresolved external symbol _freePpm referenced in function _main
+     1>cardmaker.obj : error LNK2019: unresolved external symbol _loadPpm referenced in function _main
+     1>cardmaker.obj : error LNK2019: unresolved external symbol _savePpm referenced in function _main
+     1>cardmaker.obj : error LNK2001: unresolved external symbol _NULL_PPM
+     1>G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\Debug\PPM_Card_Generator.exe : fatal error LNK1120: 4 unresolved externals
+     1>Done Building Project "G:\Coding\School\Intro to C\Prj1_PPM_Card_Generator\trunk\PPM_Card_Generator\PPM_Card_Generator\PPM_Card_Generator.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56
